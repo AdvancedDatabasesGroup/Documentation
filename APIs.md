@@ -8,3 +8,6 @@
 * Not sure if saves historical flights (?)
 * Good for current flight status but maybe not for historical purposes
 
+[OpenFlights](https://openflights.org/faq)
+* Open source but not very reliable
+* [Free database](https://github.com/jpatokal/openflights/tree/master/data)
